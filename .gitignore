@@ -1,0 +1,14 @@
+# Arquivos de Cache e Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Artefatos Gerados (NÃO DEVEM ser rastreados)
+*.db
+/results/
+/dados/input.csv
+/dados/*.csv
+
+# Ambientes Virtuais (Se você usar)
+.venv/
+venv/
