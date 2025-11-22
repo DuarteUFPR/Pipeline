@@ -11,7 +11,7 @@ Para executar o pipeline, você precisa ter instalados o **Python 3** e o **`mak
 ### Passo 1: Preparação dos Dados
 
 1.  Coloque seu arquivo de dados brutos CSV dentro da pasta `dados/`.
-2.  **Renomeie o arquivo para `input.csv`**.
+2.  O programa possibilita a navagação direto para o arquivo CSV.
 
 ### Passo 2: Execução do ETL Completo
 
