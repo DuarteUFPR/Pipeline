@@ -1,4 +1,4 @@
-# Projeto ETL Reproduzível com DuckDB
+#Desafio - Pipeline de dados
 
 Este repositório contém um pipeline completo de ETL (Extract, Transform, Load) projetado para reprodutibilidade máxima. A execução é feita através de um comando único (`make run`) em um ambiente de terminal (headless).
 
